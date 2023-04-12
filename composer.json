@@ -1,0 +1,17 @@
+{
+    "name": "viktor/php-test.loc",
+    "autoload": {
+        "psr-4": {
+            "Viktor\\PhpTestLoc\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "viktor",
+            "email": "p_viktor91@mail.ru"
+        }
+    ],
+    "require": {
+        "phpoffice/phpexcel": "^1.8"
+    }
+}
